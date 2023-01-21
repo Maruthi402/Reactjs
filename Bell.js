@@ -8,7 +8,7 @@ class Bell extends React.Component{
         super(props)
 
         this.state = {
-            message123: "Subscribe to myChannel",
+            message: "Subscribe to myChannel",
             sub: "Subscribe",
             ImageURL: bellC
         }
